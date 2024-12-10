@@ -1,0 +1,2 @@
+Cette fonctionnalité permet d'ajouter un nouveau module pour l'application.
+Cette fonctionnalité permet d'ajouter un nouveau module pour l'application.
